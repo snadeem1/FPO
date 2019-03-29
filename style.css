@@ -46,11 +46,9 @@ a{
     color: black;
 }
 
-.bottom{
-    background-color: lightgray;
-}
 
-.bottom {
+
+#bottom {
    
     left: 0;
     bottom: 0;
@@ -58,7 +56,7 @@ a{
     background-color: lightgray;
     padding: 30px 50px 60px 70px;
 }
-.footer  {
+#footer  {
    
     left: 0;
     
@@ -68,14 +66,14 @@ a{
 
 }
 #email{
-    width: 550px;
+    width: 450px;
     height: 50px ;
   
    
 }
 
 #zipcode{
-    width: 350px;
+    width: 300px;
     margin-left: 40px;
     height: 50px ;
     
@@ -87,21 +85,19 @@ a{
     background-color: black;
     margin-left: 40px;
     height: 50px ;
-}
+} 
 
 .logo{
     text-align: center;
     padding: 30px;
 }
 
-.info{
+#info{
     color: white;
     text-align: center;
     border-color: white;
     border-style: solid;
     border-width: 1px;
-    width: 500px;
-    margin-left: 30%;
     padding-top: 10px;
-   
-}
+    
+} 
