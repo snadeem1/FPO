@@ -56,11 +56,52 @@ a{
     bottom: 0;
     width: 100%;
     background-color: lightgray;
+    padding: 30px 50px 60px 70px;
 }
 .footer  {
    
     left: 0;
-    bottom: 0;
+    
     width: 100%;
     background-color: gray;
+    padding-bottom: 100px;
+
+}
+#email{
+    width: 550px;
+    height: 50px ;
+  
+   
+}
+
+#zipcode{
+    width: 350px;
+    margin-left: 40px;
+    height: 50px ;
+    
+}
+
+#join{
+    width: 150px;
+    color: white;
+    background-color: black;
+    margin-left: 40px;
+    height: 50px ;
+}
+
+.logo{
+    text-align: center;
+    padding: 30px;
+}
+
+.info{
+    color: white;
+    text-align: center;
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+    width: 500px;
+    margin-left: 30%;
+    padding-top: 10px;
+   
 }
